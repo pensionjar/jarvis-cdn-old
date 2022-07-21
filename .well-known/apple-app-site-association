@@ -2,6 +2,13 @@
   "applinks": {
     "apps": [],
     "details": [{
+      "appIDs": [ "com.pensionjar.jarvis2" ],
+      "components": [
+        {
+          "/": "*",
+          "comment": "Matches all URLs"
+       }
+      ],
       "appID": "com.pensionjar.jarvis2",
       "paths": ["*"]
     }]
