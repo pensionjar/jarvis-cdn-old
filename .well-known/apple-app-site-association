@@ -2,7 +2,7 @@
   "applinks": {
     "apps": [],
     "details": [{
-      "appID": "LKWJEF.io.myapp.example",
+      "appID": "com.pensionjar.jarvis2",
       "paths": ["*"]
     }]
   }
