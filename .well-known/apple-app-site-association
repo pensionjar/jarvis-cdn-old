@@ -1,16 +1,18 @@
 {
   "applinks": {
     "apps": [],
-    "details": [{
-      "appIDs": [ "com.pensionjar.jarvis2" ],
-      "components": [
-        {
-          "/": "*",
-          "comment": "Matches all URLs"
-       }
-      ],
-      "appID": "com.pensionjar.jarvis2",
-      "paths": ["*"]
-    }]
+    "details": [
+      {
+        "appIDs": [ "9LF98U4D2G.com.pensionjar.jarvis2" ],
+        "components": [
+          {
+            "/": "*",
+            "comment": "Matches all URLs"
+          }
+        ],
+        "appID": "9LF98U4D2G.com.pensionjar.jarvis2",
+        "paths": ["*"]
+      }
+    ]
   }
 }
